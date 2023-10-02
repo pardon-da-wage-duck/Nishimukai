@@ -1,0 +1,4 @@
+1. type 'cmd' into file explorer search bar and hit enter
+2. if no pygame installed: type 'pip install pygame'
+3. type 'dir' and hit enter
+4. type 'python main.py' and hit enter
