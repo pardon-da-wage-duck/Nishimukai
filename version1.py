@@ -18,7 +18,7 @@ screen = pygame.display.set_mode((1200, 800))
 clock = pygame.time.Clock()
 
 #background music
-mixer.music.load('xomu_last_dance.wav')
+mixer.music.load('xomu_last_dance.mp3')
 mixer.music.play(-1)
 
 #sound effects
